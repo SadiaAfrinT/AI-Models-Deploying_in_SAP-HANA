@@ -2,7 +2,7 @@
 
 ## Overview
 
-This course is designed to help participants understand how machine learning is implemented in SAP HANA through the use of regression, classification, and time series analysis. By leveraging the capabilities of the **SAP HANA Predictive Analysis Library (PAL)** and the **SAP HANA Automated Predictive Library (APL)**, developers and data scientists will be able to efficiently build, train, and optimize machine learning models.
+This rpository is designed to help participants understand how machine learning is implemented in SAP HANA through the use of regression, classification, and time series analysis. By leveraging the capabilities of the **SAP HANA Predictive Analysis Library (PAL)** and the **SAP HANA Automated Predictive Library (APL)**, developers and data scientists will be able to efficiently build, train, and optimize machine learning models.
 
 Machine Learning Workflow:
 ![workflow](https://github.com/MohidulHaqueTushar/SAP-Skills-Portfolio/blob/main/AI%20Models%20Deploying%20for%20SAP%20HANA/Images/MLworkflow.JPG)
